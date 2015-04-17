@@ -1,0 +1,8 @@
+Smooth function
+http://www.ats.ucla.edu/stat/r/faq/smooths.htm
+Markdown syntax
+http://daringfireball.net/projects/markdown/syntax
+Graphs
+http://www.cookbook-r.com/Graphs/
+Colors
+http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
